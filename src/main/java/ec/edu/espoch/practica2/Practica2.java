@@ -11,7 +11,8 @@ package ec.edu.espoch.practica2;
 public class Practica2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("CAMBIO");
+        System.out.println("hola a todos");
         
         
         //- Sistemas numéricos (hexadecimal (0x), binario (0b), octal (0)
